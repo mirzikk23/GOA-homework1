@@ -1,0 +1,7 @@
+sign1 = int(input("ra nishnebi gyavs? pirveli nishania: "))
+sign2 = int(input("mesame nishania: "))
+sign3 = int(input("mesame nishania: "))
+sign4 = int(input("meotxe nishania: "))
+sum =  print(sign1 + sign2 + sign3 + sign4)
+arithmetic_avg = int(sum) / int(4)
+print(arithmetic_avg)
